@@ -1,0 +1,50 @@
+// Chatbot's brain
+! version = 2.0
+
++ (hi|hello|hey|hai)
+- Welcome to future generali. May i know what do you want to clarify about health insurance?
+
++ *(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Life insurance is a financial contract to provide the nominee of the covered individual with a sum of money as decided in the contract. This sum of money is called sum assured in life insurance contract. The covered individual or insured must pay a nominal sum to continue the contract, which is called premium . Anyone with an income can buy life insurance to offer financial protection to their loved ones.
+
++ *different types of (life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Term Life Insurance,Endowment Plans,Money Back Plans,Unit Linked Investment Plans,Annuity or Pension Plans .
+
++ *riders in (life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Riders provide additional insurance cover for a nominal premium. Future Generali Life Insurance offers following types of riders with the life insurance plans,Accidental Death rider,Accidental Total & Permanent Disability Rider .
+
++ *(Life Insurance|life insurance|insurance|policy|life insurance policy|this policy) Cover*
+- Basic life insurance need for any individual should be such that it provides the family dependent on them sufficient money to maintain the same lifestyle and meet their financial goals in the individual’s absence.The money needed for such cover should be usually 20 to 25 times of the annual income of the individual. It is a good practice to revise the cover once your income has grown significantly in future.
+
++ *need (Life insurance|life insurance|insurance|policy|life insurance policy|this policy)
+- Medical emergencies are expensive, be it a minor accident or a major critical illness, the costs can quickly cripple your bank account. It is tempting to avoid every month deduction of premiums from your bank account, and when you are young, it is easy to undermine the importance of health insurance. However, in the long run, this undermining can cost you a fortune and leave you in debt if the treatment goes longer than you expect. By buying health insurance, you can be sure that even if you don’t have regular income during the treatment, you won’t be left high and dry.
+
++ *cancel *(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Yes, in case you cancel the policy within 15 days ,30 days if the policies sold through direct marketing mode, of its receipt for cancellation, stating your objections. The company will refund the policy premium after the deduction of stamp duty charges, medical expenses, if any and proportional risk premium for a period of cover, if any.
+
++ *exclusions of *(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Suicide Exclusion,Pre-Existing Diseases,Waiting Period,Survival Period .
+
++ *(tax benefits|other benifits|benifits)
+- Tax benefits Under Section 80C,Investing in a life insurance policy allows you to avail of several tax benefits under Section 80C. Tax saving terms under this section are:You can avail tax deductions up to Rs. 1,50,000 under this section;The deduction is allowed up to 10% premium of the sum assured for policies purchased after 1st April 2012;For policies issued before 1st April 2012, deductions on premium are allowed up to 20%of the sum assured (even if the holder pays more than 20% of the sum assured in one financial year);If the insurance policy is discontinued within two years if its commencement, the tax benefits received would be reversed;Tax Benefits Under Section 10 (10D)Under Section 10(10D), any sum received at maturity of a Life Insurance Policy, is exempted from tax. However, this exemption is not applicable to:Amount received under Section 80DDA(3) or 80DD(3);Maturity benefits received under a Keyman Insurance Policy;Sum received under any insurance policy (other than as death benefit) issued on or after April 1, 2003, during the term of which the premium paid is more than 20% of the sum assured;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
